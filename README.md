@@ -1,2 +1,2 @@
-# python-learning
-I am adding a new line to my readme.
+a = Ragnarlothrock vs Ivartheboneless
+print(a)
