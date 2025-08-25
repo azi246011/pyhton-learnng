@@ -18,3 +18,5 @@ print("The type of variable x is : ", type(x))
 x = True
 print("The type of variable x is : ", type(x))
 
+
+

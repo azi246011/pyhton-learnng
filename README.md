@@ -1,2 +1,1 @@
-a = Ragnarlothrock vs Ivartheboneless
-print(a)
+This project is for lesarning python
